@@ -1,5 +1,5 @@
 {
-    "name": "@talentcode69/php-sdk-1",
+    "name": "talentcode69/php-sdk-1",
     "type": "library",
     "description": "My PHP SDK",
     "keywords": ["php"],
