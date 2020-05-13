@@ -4,6 +4,9 @@
     "description": "My PHP SDK",
     "keywords": ["php"],
     "license": "MIT",
+    "autoload": {
+	"psr-4": {"talentcode69\\phpsdk1\\": "src/"}
+    },
     "authors": [
         {
             "name": "talentcode69",
