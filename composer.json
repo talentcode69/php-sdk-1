@@ -1,0 +1,16 @@
+{
+    "name": "@talentcode69/php-sdk-1",
+    "type": "library",
+    "description": "My PHP SDK",
+    "keywords": ["php"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "talentcode69",
+            "email": "talentcode69@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
+
