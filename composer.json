@@ -3,7 +3,6 @@
     "type": "library",
     "description": "My PHP SDK",
     "keywords": ["php"],
-    "homepage": "",
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +10,6 @@
             "email": "talentcode69@gmail.com",
             "role": "Developer"
         }
-    ],
+    ]
 }
 
